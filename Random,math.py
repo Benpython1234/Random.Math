@@ -35,6 +35,10 @@ while True:
         break
     else:
         print("Please try again")
+import math
+
+print(math.ceil(34.89))
+print(math.floor(34.89))
     
 
     
